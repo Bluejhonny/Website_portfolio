@@ -10,9 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hello, I am <span className="purple">Jhonny </span>
             from <span className="purple"> Caracas.</span>
-            and sometimes <span className="purple"> Bogota.</span>
-            <br />
-            I am currently employed as a Data Analyst.
+            I am currently employed as a Project Manager.
             <br />
             but in my spare time I focus on data science and web development. 
             <br />
